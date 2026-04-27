@@ -60,7 +60,7 @@ Diseñar una red corporativa que permita:
 Proyecto finalizado y funcional, con conectividad completa entre sedes y acceso a Internet simulado.
 
 ## Capturas 
-![Red General](images.redgeneral.png)
-![Red Jaén](images.redjaen.png)
-![Red Madrid](images.redmadrid.png)
-![Red Málaga](images.redmalaga.png)
+![Red General](images/redgeneral.png)
+![Red Jaén](images/redjaen.png)
+![Red Madrid](images/redmadrid.png)
+![Red Málaga](images/redmalaga.png)
